@@ -1,3 +1,8 @@
 # hello-world
-Hello World, a project connecting people !
-EOF
+=============
+
+Yo guys !
+
+I'am Argos78, and I'm just expecting to improve my new web skills in order to contribute as far as I can ;)
+
+See You.
